@@ -1,5 +1,3 @@
-import '../styles/globals.css';
-
 function work1({ Component, pageProps }) {
   return <Component {...pageProps} />;
 }
