@@ -28,8 +28,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-       designed and built by joey isaacson</footer>
-        </a>
+       designed and built by joey isaacson
       </footer>
     </div>
   );
