@@ -126,7 +126,7 @@
   position: relative;
   margin: 20px;
   width: 100px;
-  height: 100px;
+  height: 50px;
   background: #f00;
   -webkit-animation-name: spin;
   -webkit-animation-duration: 4000ms;
@@ -148,7 +148,6 @@
 }
 
 .spin span {
-  font: 26px Monaco, MonoSpace;
   height: 200px;
   position: absolute;
   width: 20px;

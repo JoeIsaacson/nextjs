@@ -42,7 +42,7 @@ export default function Home() {
           <span className={styles.char1}>W</span>
           <span className={styles.char2}>H</span>
           <span className={styles.char3}>A</span>
-          <span className={styles.char3}>T</span>
+          <span className={styles.char4}>T</span>
         </h1>
         
         <h3 className={styles.description}>
