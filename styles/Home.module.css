@@ -20,6 +20,7 @@
   justify-content: center;
   align-items: baseline;
   max-width: 1120px;
+  padding-top: 40px;
 }
 
 .navigationUL {
@@ -36,6 +37,7 @@
 .navigationLI {
   text-decoration: none;
   border-bottom: 1px solid black;
+  padding: 0 2rem;
 }
 
 .navigationIL:hover {
