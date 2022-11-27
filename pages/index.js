@@ -37,6 +37,14 @@ export default function Home() {
         <p>
           Before that, I was leading the marketplace dynamics team at <a className={styles.textLink} href='https://www.uberfreight.com/carrier/' target="blank">Uber Freight</a>. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
+
+        <h1 class="spin">
+          <span class="char1">E</span>
+          <span class="char2">s</span>
+          <span class="char3">t</span>
+          <span class="char4">a</span>
+          <span class="char5">b</span>
+        </h1>
         
         <h3 className={styles.description}>
           <Link href="/coinbase">Coinbase → </Link>        
