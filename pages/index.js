@@ -18,7 +18,7 @@ export default function Home() {
         </h1>
 
         <h5 className={styles.description}>
-          Design manager at Coinbase
+          I am leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. It's been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a href="https://www.linkedin.com/in/joeisaacson/">few small start ups</a>.
         </h5>
 
         <p className={styles.description}>
