@@ -20,6 +20,9 @@ export default function Home() {
       <div className={styles.test}>styled</div>
 
       <main className={styles.main}>
+
+      <div className={styles.test}>styled</div>
+
         <h1 className={styles.title}>
           Hello
         </h1>
