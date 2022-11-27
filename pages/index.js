@@ -17,6 +17,8 @@ export default function Home() {
           Hey, im Joey
         </h1>
 
+        <img src="/uf-test.svg"></img>
+
         <h6 className={styles.description}>design manager. leader. 🌐 internet money guy.</h6>
 
         <p className={styles.description}>
