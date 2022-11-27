@@ -167,9 +167,11 @@
     }
 }
 
-.char1 { transform: rotate(6deg); }
-.char2 { transform: rotate(12deg); }
-.char3 { transform: rotate(18deg); }
+.char1 { transform: rotate(0deg); }
+.char2 { transform: rotate(90deg); }
+.char3 { transform: rotate(180deg); }
+.char4 { transform: rotate(270deg); }
+
 
 @-moz-keyframes spin {
   from { -moz-transform: rotate(0deg); }

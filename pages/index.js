@@ -39,9 +39,10 @@ export default function Home() {
         </p>
 
         <h1 className={styles.spin}>
-          <span className={styles.char1}>E1</span>
-          <span className={styles.char2}>E2</span>
-          <span className={styles.char3}>E3</span>
+          <span className={styles.char1}>W</span>
+          <span className={styles.char2}>H</span>
+          <span className={styles.char3}>A</span>
+          <span className={styles.char3}>T</span>
         </h1>
         
         <h3 className={styles.description}>
