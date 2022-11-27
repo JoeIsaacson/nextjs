@@ -20,7 +20,7 @@ export default function Home() {
         <h6 className={styles.description}>design manager. leader. 🌐 internet money guy.</h6>
 
         <p className={styles.description}>
-        I am leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a class={styles.text-link} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
+        I am leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a className={styles.text-link} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
         
         <hr></hr>
