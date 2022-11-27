@@ -7,6 +7,20 @@ function Uber() {
     <div className={styles.container}>
       <main className={styles.main}>
 
+        <nav>
+        <ul>
+            <li>
+              <Link href="/">main</Link>
+            </li>
+            <li>
+              <Link href="/uber">Uber</Link>
+            </li>
+            <li>
+              <Link href="/coinbase">Coinbase</Link>
+            </li>
+          </ul>
+        </nav>
+
         <h1 className={styles.title}>
           Uber Freight
         </h1>

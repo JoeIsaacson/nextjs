@@ -1,5 +1,6 @@
 import Head from 'next/head';
 import Image from 'next/image';
+import Link from 'next/link'
 import styles from '../styles/Home.module.css';
 
 export default function Home() {
@@ -20,7 +21,10 @@ export default function Home() {
         <h6 className={styles.description}>design manager. leader. 🌐 internet money guy.</h6>
 
         <p className={styles.description}>
-        Leading several design teams at <a className={styles.textLink} href="https://www.coinbase.com/" target="blank">Coinbase</a> as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at <a className={styles.textLink} href='https://www.uberfreight.com/carrier/' target="blank">Uber Freight</a>. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
+          Leading several design teams at <a className={styles.textLink} href="https://www.coinbase.com/" target="blank">Coinbase</a> as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. 
+        </p>
+        <p>
+          Before that, I was leading the marketplace dynamics team at <a className={styles.textLink} href='https://www.uberfreight.com/carrier/' target="blank">Uber Freight</a>. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
         
         <h3 className={styles.description}>Coinbase → </h3>
