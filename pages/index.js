@@ -24,6 +24,27 @@ export default function Home() {
         </p>
         
         <img alt ="" src="/context_1.svg"></img>
+        <img alt ="" src="/context_2.svg"></img>
+        <img alt ="" src="/context_3.svg"></img>
+        <img alt ="" src="/context_4.svg"></img>
+        <img alt ="" src="/context_5.svg"></img>
+        <img alt ="" src="/context_6.svg"></img>
+        <img alt ="" src="/context_7.svg"></img>
+        <img alt ="" src="/context_8.svg"></img>
+        <img alt ="" src="/context_9.svg"></img>
+
+        <img alt ="" src="/p1_1.svg"></img>
+        <img alt ="" src="/p2_2.svg"></img>
+        <img alt ="" src="/p1_3.svg"></img>
+        <img alt ="" src="/p1_4.svg"></img>
+        <img alt ="" src="/p1_5.svg"></img>
+        <img alt ="" src="/p1_6.svg"></img>
+        <img alt ="" src="/p1_7.svg"></img>
+        <img alt ="" src="/p1_8.svg"></img>
+        <img alt ="" src="/p1_9.svg"></img>
+        <img alt ="" src="/p1_10.svg"></img>
+        <img alt ="" src="/p1_11.svg"></img>
+        <img alt ="" src="/p1_12.svg"></img>
 
         <h3 className={styles.description}>Coinbase → </h3>
         <h3 className={styles.description}>Uber Freight →</h3>
