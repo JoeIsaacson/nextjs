@@ -34,7 +34,7 @@ export default function Home() {
         <img alt ="" src="/context_9.svg"></img>
 
         <img alt ="" src="/p1_1.svg"></img>
-        <img alt ="" src="/p2_2.svg"></img>
+        <img alt ="" src="/p1_2.svg"></img>
         <img alt ="" src="/p1_3.svg"></img>
         <img alt ="" src="/p1_4.svg"></img>
         <img alt ="" src="/p1_5.svg"></img>
@@ -45,6 +45,30 @@ export default function Home() {
         <img alt ="" src="/p1_10.svg"></img>
         <img alt ="" src="/p1_11.svg"></img>
         <img alt ="" src="/p1_12.svg"></img>
+
+        <img alt ="" src="/p2_1.svg"></img>
+        <img alt ="" src="/p2_2.svg"></img>
+        <img alt ="" src="/p2_3.svg"></img>
+        <img alt ="" src="/p2_4.svg"></img>
+        <img alt ="" src="/p2_5.svg"></img>
+        <img alt ="" src="/p2_6.svg"></img>
+        <img alt ="" src="/p2_7.svg"></img>
+        <img alt ="" src="/p2_8.svg"></img>
+        <img alt ="" src="/p2_9.svg"></img>
+        <img alt ="" src="/p2_10.svg"></img>
+        <img alt ="" src="/p2_11.svg"></img>
+        <img alt ="" src="/p2_13.svg"></img>
+        <img alt ="" src="/p2_14.svg"></img>
+        <img alt ="" src="/p2_15.svg"></img>
+        <img alt ="" src="/p2_16.svg"></img>
+        <img alt ="" src="/p2_17.svg"></img>
+        <img alt ="" src="/p2_18.svg"></img>
+        <img alt ="" src="/p2_19.svg"></img>
+        <img alt ="" src="/p2_20.svg"></img>
+        <img alt ="" src="/p2_21.svg"></img>
+        <img alt ="" src="/p2_22.svg"></img>
+        <img alt ="" src="/p2_23.svg"></img>
+        <img alt ="" src="/p2_24.svg"></img>
 
         <h3 className={styles.description}>Coinbase → </h3>
         <h3 className={styles.description}>Uber Freight →</h3>
