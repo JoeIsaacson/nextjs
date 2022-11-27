@@ -1,3 +1,5 @@
+import styles from '../styles/Home.module.css';
+
 function Uber() {
     
     console.log("new work page!");
