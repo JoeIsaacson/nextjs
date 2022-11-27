@@ -52,7 +52,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-       designed and built by joey isaacson
+       designed and built by <a className={styles.textLink} href='https://github.com/JoeIsaacson' target={blank}>joey isaacson</a>
       </footer>
     </div>
   );
