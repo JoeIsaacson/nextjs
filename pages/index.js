@@ -17,12 +17,10 @@ export default function Home() {
           Hey, im Joey
         </h1>
 
-        <h5 className={styles.description}>
-          I am leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a href="https://www.linkedin.com/in/joeisaacson/">few small start ups</a>.
-        </h5>
+        <h6>design manager. leader. 🌐 internet money guy.</h6>
 
         <p className={styles.description}>
-          Leading my team of 7 across.
+        I am leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a href="https://www.linkedin.com/in/joeisaacson/">few small start ups</a>.
         </p>
 
       </main>
