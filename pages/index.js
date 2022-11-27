@@ -23,8 +23,11 @@ export default function Home() {
         Leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
         
-        <img src="/uf-test.svg"></img>
-        
+        <img src="/context_1.svg"></img>
+        <img src="/context_2.svg"></img>
+        <img src="/context_3.svg"></img>
+        <img src="/context_4.svg"></img>
+
         <h3 className={styles.description}>Coinbase → </h3>
         <h3 className={styles.description}>Uber Freight →</h3>
 
