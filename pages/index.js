@@ -17,23 +17,16 @@ export default function Home() {
           Hey, im Joey
         </h1>
 
-        <img src="/uf-test.svg"></img>
-
         <h6 className={styles.description}>design manager. leader. 🌐 internet money guy.</h6>
 
         <p className={styles.description}>
-        I am leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
+        Leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
         
-        <hr></hr>
-
+        <img src="/uf-test.svg"></img>
+        
         <h3 className={styles.description}>Coinbase → </h3>
-
-        <hr></hr>
-
         <h3 className={styles.description}>Uber Freight →</h3>
-
-        <hr></hr>
 
       </main>
 
