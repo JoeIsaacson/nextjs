@@ -18,8 +18,10 @@ function Coinbase() {
         <p>designed and built by <a className={styles.textLink} href='https://github.com/JoeIsaacson' target="blank">joey isaacson</a></p>
       </footer>
     </div>);
-  }
+  };
 
-  function Uber ();
+  function Uber () {
+    console.log("our little test is working");
+  };
   
   export default Coinbase;
