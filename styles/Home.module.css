@@ -20,18 +20,18 @@
   max-width: 1120px;
 }
 
-.navigation.navigationUL {
+.navigationUL {
   padding: 0;
   list-style: none;
   line-height: 3;
 }
 
-.navigation.navigationLI {
+.navigationLI {
   text-decoration: none;
   border-bottom: 1px solid black;
 }
 
-.navigation.navigationIL:hover {
+.navigationIL:hover {
   color: #0070f3;
 }
 
