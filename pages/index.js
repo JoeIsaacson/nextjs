@@ -23,35 +23,7 @@ export default function Home() {
         Leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. Before that, I was leading the marketplace dynamics team at Uber Freight. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
         
-        // context 
         <img alt ="" src="/context_1.svg"></img>
-        <img alt ="" src="/context_2.svg"></img>
-        <img alt ="" src="/context_3.svg"></img>
-        <img alt ="" src="/context_4.svg"></img>
-        <img alt ="" src="/context_5.svg"></img>
-        <img alt ="" src="/context_6.svg"></img>
-        <img alt ="" src="/context_7.svg"></img>
-        <img alt ="" src="/context_8.svg"></img>
-        <img alt ="" src="/context_9.svg"></img>
-        <img alt ="" src="/context_10.svg"></img>
-        <img alt ="" src="/context_11.svg"></img>
-        <img alt ="" src="/context_12.svg"></img>
-        // problem 1
-        <img alt ="" src="/p1_1.svg"></img>
-        <img alt ="" src="/p1_2.svg"></img>
-        <img alt ="" src="/p1_3.svg"></img>
-        <img alt ="" src="/p1_4.svg"></img>
-        <img alt ="" src="/p1_5.svg"></img>
-        <img alt ="" src="/p1_6.svg"></img>
-        <img alt ="" src="/p1_7.svg"></img>
-        <img alt ="" src="/p1_8.svg"></img>
-        <img alt ="" src="/p1_9.svg"></img>
-        <img alt ="" src="/p1_10.svg"></img>
-        <img alt ="" src="/p1_11.svg"></img>
-        <img alt ="" src="/p1_12.svg"></img>
-        <img alt ="" src="/p1_13.svg"></img>
-        // problem 2
-
 
         <h3 className={styles.description}>Coinbase → </h3>
         <h3 className={styles.description}>Uber Freight →</h3>
