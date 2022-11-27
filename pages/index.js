@@ -12,6 +12,20 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
+      <nav>
+        <ul>
+          <li>
+            <Link href="/">main</Link>
+          </li>
+          <li>
+            <Link href="/uber">Uber</Link>
+          </li>
+          <li>
+            <Link href="/coinbase">Coinbase</Link>
+          </li>
+        </ul>
+      </nav>
+
       <main className={styles.main}>
 
         <h1 className={styles.title}>
