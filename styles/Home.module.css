@@ -122,6 +122,10 @@
   line-height: 1.5;
 }
 
+.spin {
+  position: relative;
+}
+
 .spin span {
   font: 26px Monaco, MonoSpace;
   height: 200px;
@@ -130,6 +134,7 @@
   left: 0;
   top: 0;
   transform-origin: bottom center;
+  z-index: 1;
 }
 
 .char1 { transform: rotate(6deg); }
