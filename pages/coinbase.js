@@ -26,7 +26,7 @@ function Coinbase() {
             Coinbase
           </h1>
           
-          <img alt ="" src="/context_1.svg"></img>
+          <img alt ="" src="/coin_context_01.svg"></img>
         </main>
 
         <footer className={styles.footer}>
