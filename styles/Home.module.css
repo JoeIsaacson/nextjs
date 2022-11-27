@@ -2,12 +2,12 @@
   padding: 0 2rem;
 }
 
-a {
+.text-link {
   text-decoration: underline;
   font-style: italic;
 }
 
-a:hover {
+.text-link:hover {
   color: aquamarine;
 }
 
