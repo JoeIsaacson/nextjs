@@ -122,7 +122,7 @@
   line-height: 1.5;
 }
 
-h1 span {
+.spin span {
   font: 26px Monaco, MonoSpace;
   height: 200px;
   position: absolute;
