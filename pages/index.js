@@ -24,32 +24,32 @@ export default function Home() {
         </p>
         
         // context 
-        <img src="/context_1.svg"></img>
-        <img src="/context_2.svg"></img>
-        <img src="/context_3.svg"></img>
-        <img src="/context_4.svg"></img>
-        <img src="/context_5.svg"></img>
-        <img src="/context_6.svg"></img>
-        <img src="/context_7.svg"></img>
-        <img src="/context_8.svg"></img>
-        <img src="/context_9.svg"></img>
-        <img src="/context_10.svg"></img>
-        <img src="/context_11.svg"></img>
-        <img src="/context_12.svg"></img>
+        <img alt ="" src="/context_1.svg"></img>
+        <img alt ="" src="/context_2.svg"></img>
+        <img alt ="" src="/context_3.svg"></img>
+        <img alt ="" src="/context_4.svg"></img>
+        <img alt ="" src="/context_5.svg"></img>
+        <img alt ="" src="/context_6.svg"></img>
+        <img alt ="" src="/context_7.svg"></img>
+        <img alt ="" src="/context_8.svg"></img>
+        <img alt ="" src="/context_9.svg"></img>
+        <img alt ="" src="/context_10.svg"></img>
+        <img alt ="" src="/context_11.svg"></img>
+        <img alt ="" src="/context_12.svg"></img>
         // problem 1
-        <img src="/p1_1.svg"></img>
-        <img src="/p1_2.svg"></img>
-        <img src="/p1_3.svg"></img>
-        <img src="/p1_4.svg"></img>
-        <img src="/p1_5.svg"></img>
-        <img src="/p1_6.svg"></img>
-        <img src="/p1_7.svg"></img>
-        <img src="/p1_8.svg"></img>
-        <img src="/p1_9.svg"></img>
-        <img src="/p1_10.svg"></img>
-        <img src="/p1_11.svg"></img>
-        <img src="/p1_12.svg"></img>
-        <img src="/p1_13.svg"></img>
+        <img alt ="" src="/p1_1.svg"></img>
+        <img alt ="" src="/p1_2.svg"></img>
+        <img alt ="" src="/p1_3.svg"></img>
+        <img alt ="" src="/p1_4.svg"></img>
+        <img alt ="" src="/p1_5.svg"></img>
+        <img alt ="" src="/p1_6.svg"></img>
+        <img alt ="" src="/p1_7.svg"></img>
+        <img alt ="" src="/p1_8.svg"></img>
+        <img alt ="" src="/p1_9.svg"></img>
+        <img alt ="" src="/p1_10.svg"></img>
+        <img alt ="" src="/p1_11.svg"></img>
+        <img alt ="" src="/p1_12.svg"></img>
+        <img alt ="" src="/p1_13.svg"></img>
         // problem 2
 
 
