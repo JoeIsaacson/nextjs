@@ -38,12 +38,23 @@ export default function Home() {
           Before that, I was leading the marketplace dynamics team at <a className={styles.textLink} href='https://www.uberfreight.com/carrier/' target="blank">Uber Freight</a>. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
 
-        <h1 className={styles.spin}>
-          <span className={styles.char1}>W</span>
-          <span className={styles.char2}>H</span>
-          <span className={styles.char3}>A</span>
-          <span className={styles.char4}>T</span>
-        </h1>
+        <div id="container">
+          <div id="circle">
+          <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="300px" height="300px" viewBox="0 0 300 300" enable-background="new 0 0 300 300" xml:space="preserve">
+              <defs>
+                  <path id="circlePath" d=" M 150, 150 m -60, 0 a 60,60 0 0,1 120,0 a 60,60 0 0,1 -120,0 "/>
+              </defs>
+              <circle cx="150" cy="100" r="75" fill="none"/>
+              <g>
+                  <use xlink:href="#circlePath" fill="none"/>
+                  <text fill="#000">
+                      <textPath xlink:href="#circlePath">Text rotating around a circle path with SVG!</textPath>
+                  </text>
+              </g>
+          </svg>
+          </div>
+        </div>
+
         
         <h3 className={styles.description}>
           <Link href="/coinbase">Coinbase → </Link>        
