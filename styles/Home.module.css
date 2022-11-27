@@ -4,7 +4,6 @@
 
 .textLink {
   text-decoration: underline;
-  font-style: italic;
 }
 
 .textLink:hover {
@@ -21,10 +20,6 @@
   max-width: 1120px;
 }
 
-.test {
-  text-transform: capitalize;
-}
-
 .footer {
   display: flex;
   flex: 1;
@@ -33,7 +28,6 @@
 }
 
 .footer a {
-  display: flex;
   align-items: center;
   flex-grow: 1;
 }
