@@ -38,8 +38,12 @@ export default function Home() {
           Before that, I was leading the marketplace dynamics team at <a className={styles.textLink} href='https://www.uberfreight.com/carrier/' target="blank">Uber Freight</a>. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
         
-        <h3 className={styles.description}>Coinbase → </h3>
-        <h3 className={styles.description}>Uber Freight →</h3>
+        <h3 className={styles.description}>
+          <Link href="/coinbase">Coinbase → </Link>        
+        </h3>
+        <h3 className={styles.description}>
+          <Link href="/uber">Uber Freight → </Link>
+        </h3>
 
       </main>
 
