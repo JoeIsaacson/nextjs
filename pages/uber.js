@@ -10,7 +10,7 @@ function Uber() {
       <nav className={styles.navigation}>
         <ul className={styles.navigationUL}>
           <li className={styles.navigationLI}>
-            <Link href="/">main</Link>
+            <Link href="/">← main</Link>
           </li>
         </ul>
       </nav>
