@@ -8,7 +8,7 @@ function Uber() {
       <main className={styles.main}>
 
         <h1 className={styles.title}>
-          Hey, im Joey
+          Uber Freight
         </h1>
         
         <img alt ="" src="/context_1.svg"></img>
