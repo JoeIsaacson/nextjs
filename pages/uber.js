@@ -54,7 +54,7 @@ function Uber() {
       <img alt ="" src="/p2_24.svg"></img>
 
       <footer className={styles.footer}>
-       designed and built by <a className={styles.textLink} href='https://github.com/JoeIsaacson' target="blank">joey isaacson</a>
+       designed and built by&nbsp<a className={styles.textLink} href='https://github.com/JoeIsaacson' target="blank"> joey isaacson</a>
       </footer>
     </div>);
   }
