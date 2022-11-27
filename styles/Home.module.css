@@ -20,6 +20,21 @@
   max-width: 1120px;
 }
 
+.navigation.navigationUL {
+  padding: 0;
+  list-style: none;
+  line-height: 3;
+}
+
+.navigation.navigationLI {
+  text-decoration: none;
+  border-bottom: 1px solid black;
+}
+
+.navigation.navigationIL:hover {
+  color: #0070f3;
+}
+
 .footer {
   display: flex;
   flex: 1;
@@ -30,11 +45,6 @@
 .footer a {
   align-items: center;
   flex-grow: 1;
-}
-
-.title a {
-  color: #0070f3;
-  text-decoration: none;
 }
 
 .title a:hover,
