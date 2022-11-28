@@ -50,11 +50,11 @@ function Coinbase() {
           <img alt ="" src="/coin_p1_15.svg"></img>
           <img alt ="" src="/coin_p1_16.svg"></img>
           <img alt ="" src="/coin_p1_17.svg"></img>
-          <img alt ="" src="/coin_p1_18.svg"></img>
+          <img alt ="" src="/coin_p1_18.png"></img>
           <img alt ="" src="/coin_p1_19.svg"></img>
           <img alt ="" src="/coin_p1_20.svg"></img>
           <img alt ="" src="/coin_p1_21.svg"></img>
-          <img alt ="" src="/coin_p1_22.svg"></img>
+          <img alt ="" src="/coin_p1_22.png"></img>
           <img alt ="" src="/coin_p1_23.svg"></img>
           <img alt ="" src="/coin_p1_24.svg"></img>
 
