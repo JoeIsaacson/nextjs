@@ -147,6 +147,12 @@
   .footer {
     border-color: #222;
   }
+
+  .navigation {
+    background-color: #222;
+    color: #fff;
+    border-color: #fff;
+  }
   .code {
     background: #111;
   }
