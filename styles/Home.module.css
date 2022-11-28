@@ -56,6 +56,19 @@
   border-top: 1px solid #eaeaea;
 }
 
+.loading {
+  padding: 1rem;
+  background-color: rgb(219, 216, 216);
+  border-radius: 40px;
+  width: 100%;
+  text-align: center;
+  align-items: center;
+}
+
+.loadingMessage {
+
+}
+
 .footer a {
   align-items: center;
   flex-grow: 1;

@@ -59,7 +59,11 @@ function Coinbase() {
           <img className={styles.workshot} alt ="" src="/coin_p1_24.svg"></img>
 
           <img className={styles.workshot} alt ="" src="/coin_p2_01.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p2_02.svg"></img>
+
+          <div className={styles.loading}>
+            <p className={styles.loadingMessage}>work in progress...</p>
+          </div>
+
         </main>
 
         <footer className={styles.footer}>
