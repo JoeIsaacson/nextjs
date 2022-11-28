@@ -32,7 +32,7 @@ function Coinbase() {
           <img alt ="" src="/coin_context_04.svg"></img>
           <img alt ="" src="/coin_context_05.svg"></img>
           <img alt ="" src="/coin_context_06.svg"></img>
-          // project 1
+
           <img alt ="" src="/coin_p1_01.svg"></img>
           <img alt ="" src="/coin_p1_02.svg"></img>
           <img alt ="" src="/coin_p1_03.svg"></img>
@@ -57,7 +57,7 @@ function Coinbase() {
           <img alt ="" src="/coin_p1_22.svg"></img>
           <img alt ="" src="/coin_p1_23.svg"></img>
           <img alt ="" src="/coin_p1_24.svg"></img>
-          // help
+
           <img alt ="" src="/coin_p2_01.svg"></img>
           <img alt ="" src="/coin_p2_02.svg"></img>
         </main>
