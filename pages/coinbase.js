@@ -26,40 +26,40 @@ function Coinbase() {
             Coinbase
           </h1>
           
-          <img alt ="" src="/coin_context_01.svg"></img>
-          <img alt ="" src="/coin_context_02.svg"></img>
-          <img alt ="" src="/coin_context_03.svg"></img>
-          <img alt ="" src="/coin_context_04.svg"></img>
-          <img alt ="" src="/coin_context_05.svg"></img>
-          <img alt ="" src="/coin_context_06.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_context_01.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_context_02.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_context_03.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_context_04.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_context_05.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_context_06.svg"></img>
 
-          <img alt ="" src="/coin_p1_01.svg"></img>
-          <img alt ="" src="/coin_p1_02.svg"></img>
-          <img alt ="" src="/coin_p1_03.svg"></img>
-          <img alt ="" src="/coin_p1_04.svg"></img>
-          <img alt ="" src="/coin_p1_05.svg"></img>
-          <img alt ="" src="/coin_p1_06.svg"></img>
-          <img alt ="" src="/coin_p1_07.svg"></img>
-          <img alt ="" src="/coin_p1_08.svg"></img>
-          <img alt ="" src="/coin_p1_09.svg"></img>
-          <img alt ="" src="/coin_p1_10.svg"></img>
-          <img alt ="" src="/coin_p1_11.svg"></img>
-          <img alt ="" src="/coin_p1_12.svg"></img>
-          <img alt ="" src="/coin_p1_13.svg"></img>
-          <img alt ="" src="/coin_p1_14.svg"></img>
-          <img alt ="" src="/coin_p1_15.svg"></img>
-          <img alt ="" src="/coin_p1_16.svg"></img>
-          <img alt ="" src="/coin_p1_17.svg"></img>
-          <img alt ="" src="/coin_p1_18.png"></img>
-          <img alt ="" src="/coin_p1_19.svg"></img>
-          <img alt ="" src="/coin_p1_20.svg"></img>
-          <img alt ="" src="/coin_p1_21.svg"></img>
-          <img alt ="" src="/coin_p1_22.png"></img>
-          <img alt ="" src="/coin_p1_23.svg"></img>
-          <img alt ="" src="/coin_p1_24.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_01.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_02.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_03.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_04.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_05.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_06.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_07.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_08.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_09.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_10.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_11.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_12.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_13.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_14.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_15.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_16.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_17.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_18.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_19.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_20.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_21.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_22.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_23.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_24.svg"></img>
 
-          <img alt ="" src="/coin_p2_01.svg"></img>
-          <img alt ="" src="/coin_p2_02.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_01.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_02.svg"></img>
         </main>
 
         <footer className={styles.footer}>

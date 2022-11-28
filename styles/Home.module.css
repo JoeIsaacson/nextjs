@@ -44,6 +44,11 @@
   color: #0070f3;
 }
 
+.workshot {
+  position: relative;
+  width:100%;
+}
+
 .footer {
   display: flex;
   flex: 1;
