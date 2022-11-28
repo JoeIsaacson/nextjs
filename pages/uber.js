@@ -64,7 +64,7 @@ function Uber() {
           <img className={styles.workshot} alt ="" src="/p2_17.svg"></img>
           <img className={styles.workshot} alt ="" src="/p2_18.svg"></img>
           <img className={styles.workshot} alt ="" src="/p2_19.svg"></img>
-          <img className={styles.workshot} alt ="" src="/p2_20.svg"></img>
+          <img className={styles.workshot} alt ="" src="/p2_20.png"></img>
           <img className={styles.workshot} alt ="" src="/p2_21.svg"></img>
           <img className={styles.workshot} alt ="" src="/p2_22.svg"></img>
           <img className={styles.workshot} alt ="" src="/p2_23.svg"></img>
