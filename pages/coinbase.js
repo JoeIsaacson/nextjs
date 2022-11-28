@@ -42,13 +42,13 @@ function Coinbase() {
           <img className={styles.workshot} alt ="" src="/coin_p1_07.svg"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_08.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_09.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_10.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_11.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_12.svg"></img>
+
           <img className={styles.workshot} alt ="" src="/coin_p1_13.svg"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_14.svg"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_15.svg"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_16.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_10.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_11.svg"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_17.svg"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_18.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_19.svg"></img>
