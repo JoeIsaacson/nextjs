@@ -35,7 +35,7 @@ export default function Home() {
           Leading several design teams at <a className={styles.textLink} href="https://www.coinbase.com/" target="blank">Coinbase</a> as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride. 
         </p>
         <p>
-          Before that, I was leading the marketplace dynamics design team at <a className={styles.textLink} href='https://www.uberfreight.com/carrier/' target="blank">Uber Freight</a>. Before that - man I was a snotty nosed designer working at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
+          Before that, I was leading the marketplace dynamics design team at <a className={styles.textLink} href='https://www.uberfreight.com/carrier/' target="blank">Uber Freight</a>. Before that - man I was a designing at a <a className={styles.textLink} href="https://www.linkedin.com/in/joeisaacson/" target="blank">few small start ups</a>.
         </p>
 
         <h3 className={styles.description}>
