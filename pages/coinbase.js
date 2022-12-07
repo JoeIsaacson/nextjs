@@ -59,6 +59,27 @@ function Coinbase() {
           <img className={styles.workshot} alt ="" src="/coin_p1_24.svg"></img>
 
           <img className={styles.workshot} alt ="" src="/coin_p2_01.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_02.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_03.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_04.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_05.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_06.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_07.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_08.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_09.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_10.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_11.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_12.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_13.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_14.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_15.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_16.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_17.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_18.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_19.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_20.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p2_21.png"></img>
+
 
           <div className={styles.loading}>
             <p className={styles.loadingMessage}>🔨 [work in progress]</p>
