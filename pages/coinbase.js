@@ -33,30 +33,30 @@ function Coinbase() {
           <img className={styles.workshot} alt ="" src="/coin_context_05.svg"></img>
           <img className={styles.workshot} alt ="" src="/coin_context_06.svg"></img>
 
-          <img className={styles.workshot} alt ="" src="/coin_p1_01.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_02.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_03.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_04.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_05.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_06.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_07.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_01.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_02.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_03.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_04.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_05.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_06.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_07.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_08.png"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_09.svg"></img>
-
-          <img className={styles.workshot} alt ="" src="/coin_p1_13.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_14.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_15.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_16.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_09.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_10.png"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_11.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_17.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_11.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_12.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_13.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_14.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_15.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_16.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_17.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_18.png"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_19.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_19.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_20.png"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_21.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_21.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_22.png"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_23.svg"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_24.svg"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_23.png"></img>
+          <img className={styles.workshot} alt ="" src="/coin_p1_24.png"></img>
 
           <img className={styles.workshot} alt ="" src="/coin_p2_01.svg"></img>
           <img className={styles.workshot} alt ="" src="/coin_p2_02.png"></img>
