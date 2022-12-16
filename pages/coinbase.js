@@ -36,7 +36,6 @@ function Coinbase() {
           <img className={styles.workshot} alt ="" src="/coin_p1_01.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_02.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_03.png"></img>
-          <img className={styles.workshot} alt ="" src="/coin_p1_04.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_05.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_06.png"></img>
           <img className={styles.workshot} alt ="" src="/coin_p1_07.png"></img>
