@@ -29,7 +29,7 @@ function Sandbox() {
 
           <div className={styles.workSection}>
             <h5>Northstar</h5>
-            <h1 className={styles.Display}>How can we help people spend and send their crypto?</h1>
+            <h1 className={styles.display}>How can we help people spend and send their crypto?</h1>
           </div>
 
           <div className={styles.workSection}>
