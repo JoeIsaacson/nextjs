@@ -38,7 +38,14 @@ function Sandbox() {
                 <h1>At Coinbase, I helped users go beyond just buying and trading crypto, but sending and spenign it in real life</h1>
                 <h5>This was done in many projects across two core areas of sending and spending</h5>
             </div>
-            <div className={styles.workSectionR}></div>
+            <div className={styles.workSectionR}>
+                <h5>Project 1</h5>
+                <h4>Send and Receive Redesign</h4>
+                <p>Support the core trade business by revamping the main experience</p>
+                <h5>Project 1</h5>
+                <h4>Payments Flywheel</h4>
+                <p>Meet customers where they are, off-chain IRL they can spend their crypto</p>
+            </div>
           </div>
 
           <img className={styles.workshot} alt="" src="/coin_context_01.svg"></img>
