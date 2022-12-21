@@ -24,7 +24,7 @@ function Sandbox() {
 
           <div className={styles.workSection}>
             <div className={styles.workSectionL}></div>
-            <div className={styles.workSectionr}></div>
+            <div className={styles.workSectionR}></div>
           </div>
 
           <div className={styles.workSection}>
@@ -33,9 +33,12 @@ function Sandbox() {
           </div>
 
           <div className={styles.workSection}>
-            <h5>Product</h5>
-            <h1>At Coinbase, I helped users go beyond just buying and trading crypto, but sending and spenign it in real life</h1>
-            <h5>This was done in many projects across two core areas of sending and spending</h5>
+            <div className={styles.workSectionL}>
+                <h5>Product</h5>
+                <h1>At Coinbase, I helped users go beyond just buying and trading crypto, but sending and spenign it in real life</h1>
+                <h5>This was done in many projects across two core areas of sending and spending</h5>
+            </div>
+            <div className={styles.workSectionR}></div>
           </div>
 
           <img className={styles.workshot} alt="" src="/coin_context_01.svg"></img>
