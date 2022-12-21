@@ -49,6 +49,10 @@
   width:100%;
 }
 
+.workSection .display {
+  font-size: 4rem;
+}
+
 .footer {
   display: flex;
   flex: 1;

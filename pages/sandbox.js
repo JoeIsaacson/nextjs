@@ -29,9 +29,15 @@ function Sandbox() {
 
           <div className={styles.workSection}>
             <h5>Northstar</h5>
-            <h1>How can we help people spend and send their crypto?</h1>
+            <h1 className={styles.Display}>How can we help people spend and send their crypto?</h1>
           </div>
-          
+
+          <div className={styles.workSection}>
+            <h5>Product</h5>
+            <h1>At Coinbase, I helped users go beyond just buying and trading crypto, but sending and spenign it in real life</h1>
+            <h5>This was done in many projects across two core areas of sending and spending</h5>
+          </div>
+
           <img className={styles.workshot} alt="" src="/coin_context_01.svg"></img>
           <img className={styles.workshot} alt="" src="/coin_context_02.svg"></img>
           <img className={styles.workshot} alt="" src="/coin_context_03.svg"></img>
