@@ -1,7 +1,7 @@
 import styles from '../styles/Home.module.css';
 import Link from 'next/link'
 
-function Coinbase() {
+function Sandbox() {
       
     return (
     
@@ -21,6 +21,16 @@ function Coinbase() {
           <h1 className={styles.title}>
             Coinbase
           </h1>
+
+          <div className={styles.workSection}>
+            <div className={styles.workSectionL}></div>
+            <div className={styles.workSectionr}></div>
+          </div>
+
+          <div className={styles.workSection}>
+            <h5>Northstar</h5>
+            <h1>How can we help people spend and send their crypto?</h1>
+          </div>
           
           <img className={styles.workshot} alt="" src="/coin_context_01.svg"></img>
           <img className={styles.workshot} alt="" src="/coin_context_02.svg"></img>
@@ -84,4 +94,4 @@ function Coinbase() {
     </div>);
   };
   
-  export default Coinbase;
+  export default Sandbox;
