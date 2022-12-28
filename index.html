@@ -38,8 +38,18 @@
         <meta name="twitter:image" content="http://joeyisaacson.com/img/icons/twitter_card_image.jpg">
         <meta name="twitter:url" content="http://joeyisaacson.com/">
 
-        <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
-        <link href="http://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <script src="https://cdn.tailwindcss.com"></script>
+         <script>
+           tailwind.config = {
+             theme: {
+              extend: {
+               colors: {
+                  clifford: '#da373d',
+                     }
+                 }
+               }
+           }
+        </script>
         
         <link href="css/pace-theme-minimal.css" rel="stylesheet">
         <link rel="stylesheet" href="css/app.css">
@@ -52,6 +62,10 @@
             <h5>Northstar</h5>
             <h1 className={styles.display}>How can we help people spend and send their crypto?</h1>
           </div>
+
+          <h1 class="text-3xl font-bold underline">
+                  Hello world!
+          </h1>
 
           <div className={styles.workSection}>
             <div className={styles.workSectionL}>
