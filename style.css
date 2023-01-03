@@ -24,6 +24,10 @@
 	font-size: 12px;
 }
 
+.rounded {
+    border-radius: 16px !important;
+}
+
 .work-section {
 	padding: 6%;
 	overflow: hidden;
