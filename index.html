@@ -3,7 +3,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title>Joey Isaacson</title>
         <meta name="description" content="">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport">
 
         <!-- Fav and touch icons -->
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/icons/apple-touch-icon-144-precomposed.png">
@@ -11,49 +11,50 @@
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/icons/apple-touch-icon-72-precomposed.png">
         <link rel="apple-touch-icon-precomposed" href="img/icons/apple-touch-icon-57-precomposed.png">
 
-        <!-- Fonts -->
-        <link rel="stylesheet" href="https://rsms.me/inter/inter.css">
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+        <!--local joey css-->
+        <link href="style.css" rel="stylesheet">
 
-        <script src="https://cdn.tailwindcss.com"></script>
-         <script>
-           tailwind.config = {
-             theme: {
-              extend: {
-               colors: {
-                  clifford: '#da373d',
-                     }
-                 }
-               }
-           }
+        <script type="text/javascript">
+          console.log("local shit js!");
         </script>
+
+
     </head>
 
     <body>
-          <div> 
-            <div className={styles.workSection}>
-            <h5>Northstar</h5>
-            <h1 className={styles.display}>How can we help people spend and send their crypto?</h1>
+        <!--navbar-->
+        <nav class="navbar">
+          <div class="container">
+            <a id="myLink" href="#" onclick="MyFunction(alert(joey.a.isaacson@gmail.com));">
+                <span class="navbar-brand mb-0 h1">Contact  ℻</span>
+            </a>
           </div>
+        </nav>
 
-          <h1 class="text-3xl font-bold underline">
-                  Hello world!
-          </h1>
+        <!--container-->
+        <div class="container">
+            <h1 class="project-title">Hey, i'm Joey</h1>
+            <div class="row">
+              <div class="col-md-8">
+                <h2>design manager. leader. 🌐 internet money guy.</h2>
+                <h4>Leading several design teams at Coinbase as a design manager, focused on helping people earn interest, send and spend their crypto. Its been a wild ride.</h6>
+                <p>Before that, I was leading the marketplace dynamics design team at <a href="https://www.uberfreight.com/carrier/">Uber Freight</a>. Before that - man I was a designing at a <a href="https://www.linkedin.com/in/joeisaacson/">few small start ups</a>.</p>
+              </div>
+            </div>
 
-          <div className={styles.workSection}>
-            <div className={styles.workSectionL}>
-                <h5>Product</h5>
-                <h1>At Coinbase, I helped users go beyond just buying and trading crypto, but sending and spenign it in real life</h1>
-                <h5>This was done in many projects across two core areas of sending and spending</h5>
-            </div>
-            <div className={styles.workSectionR}>
-                <h5>Project 1</h5>
-                <h4>Send and Receive Redesign</h4>
-                <p>Support the core trade business by revamping the main experience</p>
-                <h5>Project 1</h5>
-                <h4>Payments Flywheel</h4>
-                <p>Meet customers where they are, off-chain IRL they can spend their crypto</p>
-            </div>
+            <!--links-->
+            <p> → see my work from <a href="coinbase-1.html">Coinbase</a></p>
+            <p> → see my work from <a href="">Uber</a></p>
+        </div>
+
+     
+
+        <!--footer-->
+        <footer class="navbar">
+          <div class="container">
+            <span class="navbar-brand mb-0 label-size">designed and built by joey isaacson</span>
           </div>
-
+        </footer>
     </body>
 </html>
