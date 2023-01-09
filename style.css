@@ -24,6 +24,10 @@
 	font-size: 12px;
 }
 
+.problem-text {
+	color: #F25138;
+}
+
 .rounded {
     border-radius: 16px !important;
 }
@@ -54,6 +58,14 @@
 	border: 0;
 }
 
+.diamond-row {
+	margin-top: 42px;
+}
+
+.diamond-row .diamond {
+	width: 82px;
+}
+
 .work-section.dark {
 	background: black;
 	color: white;
@@ -65,9 +77,14 @@
 	border: 1px solid #F25138;
 }
 
+
 .work-section.outcome {
 	color: white;
 	background: #0052FF;
+}
+
+.work-section.outcome a {
+	color: white;
 }
 
 .work-section.outcome.green {
@@ -82,7 +99,13 @@
 	}
 }
 
-@media (min-width: 768px) {
+@media (min-width: 768px) and (max-width: 991px) {
+		.hidden-md {
+		display: none;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
 	.work-section {
     	min-height: 520px;
 	}
